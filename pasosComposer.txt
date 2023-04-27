@@ -1,0 +1,15 @@
+Para arrancar un archivo nuevo digitamos el comando: -composer init
+-colocamos el nombre al vendor
+-colocamos una descripcion de proyecto a realizar
+-minimun Stability[]. enter
+-package type: project
+-definir dependencias de fomra interactiva : NO
+-definir dependencias de fomra interactiva(dev): NO
+para instalar las dependencias del archivo composer.json digitar:  composer install
+cuando hagamos cambios en el composer.json debemos escribir en el terminal: composer update
+
+PHP MVC 
+para entrar a carpetas: cd ""
+muestra todas las carpetas ls
+borrar o limpiar pantalla cls
+para iniciar una terminal desde la carpeta public:  php -S localhost:3000

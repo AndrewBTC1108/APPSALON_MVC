@@ -1,0 +1,2 @@
+Para instalar todas las dependencias de npm con el comando: -npm i o npm install, 
+se instalaran todas las dependencias que esten en el package json
